@@ -1,9 +1,4 @@
-# Monte_carlo option pricing
-my second python project to estimate the prices of European call and put options using Monte Carlo simulations.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![NumPy](https://img.shields.io/badge/NumPy-F3F3F3?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/) 
-[![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge)](LICENSE)
+  second small python project to estimate the prices of European call and put options using Monte Carlo simulations.
 
 ---
 - Uses GBM for stock price simulation.
